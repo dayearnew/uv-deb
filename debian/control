@@ -1,0 +1,8 @@
+Package: uv
+Section: devel
+Priority: optional
+Maintainer: coplo <dayearnew@gmail.com>
+Homepage: https://docs.astral.sh/uv/
+Depends: libc6, libgcc-s1
+Description: Extremely fast Python package and project manager
+ uv and uvx are packaged directly from the official upstream Linux release binaries.
